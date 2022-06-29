@@ -1,0 +1,30 @@
+.contenidoPrincipal {
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.margenSuperior {
+    margin-top: 100px;
+}
+
+
+
+.contenedorCarousel {
+    width: 50%;
+    
+}
+
+.contenedorTexto {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.dimensionImagen {
+    width: 70vw;
+    height: 100vh;
+    object-fit: cover;
+    border-radius: 25px;
+}
